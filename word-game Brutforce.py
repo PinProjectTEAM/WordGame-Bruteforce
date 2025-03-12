@@ -6,7 +6,7 @@ from pystyle import Colors, Colorate
 
 api_id = 123456789
 api_hash = '1a2b3c4d5e6f7g8h9i'
-session_name = 'my_account'
+session_name = 'wordgame_session'
 chat_id = 77777777777777
 bot_username = 'igravslova_bot'
 
